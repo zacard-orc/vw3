@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    123
     <timer-picker/>
   </div>
 </template>
